@@ -1,1 +1,9 @@
-Guten Tag!
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <title>Guten Tag!</title>
+  </head>
+  <body>
+    Hello world!
+  </body>
+</html>
