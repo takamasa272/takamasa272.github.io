@@ -8,3 +8,6 @@ plugins:
 
 title: takamasa272
 description: toriaezu home page
+
+# for nostr ninsho
+include: [".well-known"]
